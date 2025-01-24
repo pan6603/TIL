@@ -2,6 +2,7 @@
 
 ### Git
 + <a href="https://github.com/pan6603/TIL/blob/main/Git/Git%EC%9D%B4%EB%9E%80.md">Git이란</a>
++ <a href="">Git 원격 저장소 연결 방법</a>
 
 ### Network 
 + <a href="https://github.com/pan6603/TIL/blob/main/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md">네트워크는 무엇인가?</a>
