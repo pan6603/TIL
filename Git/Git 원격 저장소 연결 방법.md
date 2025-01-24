@@ -1,4 +1,4 @@
-### Git 원격 저장소 연결 방법 
+## Git 원격 저장소 연결 방법 
 <p>Git 통해서 <strong>Github 원격 저장소와 연결</strong>하는 명령어 입니다. </p>
 
 ### 1. git init 프로젝트 초기화 하기 
