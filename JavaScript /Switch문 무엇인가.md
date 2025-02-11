@@ -36,22 +36,31 @@ let day = "월요일"
 
 switch day {
 case "월요일":
-    cpnsole.log("오늘은 월요일 입니다.")
+    cpnsole.log("오늘은 월요일 입니다.");
+    break;
 case "화요일":
-    console.log("오늘은 화요일 입니다.")
+    console.log("오늘은 화요일 입니다.");
+    break;
 case "수요일":
-    console.log("오늘은 수요일 입니다.")
+    console.log("오늘은 수요일 입니다.");
+    break;
 case "목요일":
-    console.log("오늘은 목요일 입니다.")
+    console.log("오늘은 목요일 입니다.");
+    break;
 case "금요일":
-    console.log("오늘은 금요일 입니다.")
+    console.log("오늘은 금요일 입니다.");
+    break;
 case "토요일", "일요일":
-    console.log("오늘은 주말 입니다.")
+    console.log("오늘은 주말 입니다.");
+    break;
 default:
     console.log("좋은 하루 보내세요 ~ ")
 }
 
 ```
++ case는 해당 값이 참이면 실행
++ break는 해당 조건을 실행한 후 다른 조건을 실행하지 않도록 막는 역할을 함. 
+
 
 
 
