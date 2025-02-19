@@ -16,5 +16,5 @@
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/Switch%EB%AC%B8%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md">Switch문 무엇인가</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/While%EB%AC%B8%20%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95.md">While문 사용방법</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/%EC%82%BC%ED%95%AD%20%EC%97%B0%EC%82%B0%EC%9E%90%EB%9E%80.md">삼항 연산자란?</a>
-+ <a href="">reverse() 메서드</a>
++ <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/reverse()%20%EB%A9%94%EC%84%9C%EB%93%9C.md">reverse() 메서드</a>
 
