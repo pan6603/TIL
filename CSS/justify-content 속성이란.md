@@ -3,9 +3,9 @@
 
 ### 예제 코드 
 
-1. 기본적인 Flexbox에서 justify-content 사용 
+##### 1. 기본적인 Flexbox에서 justify-content 사용 
 
-#### style.css
+style.css
 ```
 .container {
   display: flex;
@@ -14,7 +14,7 @@
 }
 ```
 
-#### index.html
+index.html
 ```
 <div class="container">
    <div class="item">1</div>
@@ -23,9 +23,9 @@
 </div>
 ```
 
-2. justify-content: space-between; 사용
+#### 2. justify-content: space-between; 사용
 
-#### style.css
+style.css
 ```
 .container {
   display: flex;
