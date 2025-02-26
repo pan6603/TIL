@@ -11,7 +11,7 @@
 ### HTML & CSS 
 + <a href="https://github.com/pan6603/TIL/blob/main/HTML/HTML%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md">HTML이란 무엇인가?</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/CSS/CSS%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md">CSS는 무엇인가?</a>
-+ <a href="">justify-content 속성이란</a>
++ <a href="https://github.com/pan6603/TIL/blob/main/CSS/justify-content%20%EC%86%8D%EC%84%B1%EC%9D%B4%EB%9E%80.md">justify-content 속성이란</a>
 
 ### JavaScript 
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/Switch%EB%AC%B8%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md">Switch문 무엇인가</a>
