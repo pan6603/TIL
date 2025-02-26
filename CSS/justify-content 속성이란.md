@@ -24,6 +24,8 @@
 ```
 
 2. justify-content: space-between; 사용
+
+#### style.css
 ```
 .container {
   display: flex;
