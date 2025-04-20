@@ -29,4 +29,5 @@
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/%EC%8A%A4%ED%81%AC%EB%A1%A4%20%EC%8B%9C%20%ED%97%A4%EB%8D%94%EC%97%90%20%EC%84%A0%20%EC%B6%94%EA%B0%80.md">스크롤 시 헤더에 선 추가	</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/map()%20%EC%BD%94%EB%93%9C%20%EC%82%AC%EC%9A%A9.md">map() 코드 사용</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/setTimeOut%20%EC%BD%94%EB%93%9C%20%EC%82%AC%EC%9A%A9%EB%B2%95.md">setTimeOut 코드 사용법</a>
++ <a href="">includes()란?</a>
 
