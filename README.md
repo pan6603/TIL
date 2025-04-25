@@ -31,5 +31,5 @@
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/map()%20%EC%BD%94%EB%93%9C%20%EC%82%AC%EC%9A%A9.md">map() 코드 사용</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/setTimeOut%20%EC%BD%94%EB%93%9C%20%EC%82%AC%EC%9A%A9%EB%B2%95.md">setTimeOut 코드 사용법</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/includes()%EB%9E%80%3F.md">includes()란?</a>
-+ <a href="">join() 배열 메서드</a>
++ <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/join()%20%EB%B0%B0%EC%97%B4%20%EB%A9%94%EC%84%9C%EB%93%9C.md">join() 배열 메서드</a>
 
