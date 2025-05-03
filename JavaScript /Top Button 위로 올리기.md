@@ -1,5 +1,5 @@
-## Top Button이란?
-> topButton은 페이지 위로 올라가기 버튼을 HTML에서 만들기 위해 우리가 직접 붙인 id 이름이다.
+## Scroll to Top 버튼 만들기
+> Scroll to Top 버튼 만들기는 페이지 위로 올라가기 버튼을 HTML에서 만들기 위해 우리가 직접 붙인 id 이름이다.
 
 #### html 
 ```
