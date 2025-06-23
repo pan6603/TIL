@@ -22,6 +22,7 @@
 + <a href="https://github.com/pan6603/TIL/blob/main/CSS/overflow-x%3A%20auto%20%EB%9E%80%3F.md">overflow-x: auto란?</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/CSS/%40mixin%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md">@mixin란 무엇인가?</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/CSS/overflow%3A%20hidden%20%EC%86%8D%EC%84%B1%EC%9D%B4%EB%9E%80%3F.md">overflow: hidden 속성이란?</a>
++ <a href="">fadeInUp 무엇인가?</a>
 
 ### JavaScript 
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/Switch%EB%AC%B8%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md">Switch문 무엇인가</a>
