@@ -49,6 +49,6 @@
 + <a href="https://github.com/pan6603/TIL/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%95%84%ED%86%A0%EB%AF%B9%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80%3F.md">리액트 아토믹 디자인 패턴이란?</a>
 
 ### TypeScript 
-+ <a href="">TypeScript 이란 무엇인가?</a>
++ <a href="https://github.com/pan6603/TIL/blob/main/TypeScript/TypeScript%20%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md">TypeScript 이란 무엇인가?</a>
 
 
