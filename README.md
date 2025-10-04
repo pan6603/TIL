@@ -9,6 +9,7 @@
 + <a href="https://github.com/pan6603/TIL/blob/main/Network/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80%20%EC%84%9C%EB%B2%84.md">클라이언트와 서버는 무엇인가?</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/Network/%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94%20%EB%B0%A9%EB%B2%95.md">서버에서 데이터를 가져오는 방법</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/Network/%ED%8C%A8%ED%82%B7%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md">패킷이란 무엇인가?</a>
++ <a href="">URL과 URI 차이</a>
 
 ### HTML & CSS 
 + <a href="https://github.com/pan6603/TIL/blob/main/HTML/HTML%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md">HTML이란 무엇인가?</a>
