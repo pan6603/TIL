@@ -39,10 +39,6 @@
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/includes()%EB%9E%80%3F.md">includes()란?</a>
 + <a href="https://github.com/pan6603/TIL/blob/main/JavaScript%20/join()%20%EB%B0%B0%EC%97%B4%20%EB%A9%94%EC%84%9C%EB%93%9C.md">join() 배열 메서드</a>
 
-### Python
-+ <a href="https://github.com/pan6603/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md">파이썬이란 무엇인가?</a>
-+ <a href="https://github.com/pan6603/TIL/blob/main/Python/%EC%97%B0%EC%82%B0%EC%88%9C%EC%84%9C%EB%9E%80%3F.md">연산순서란?</a>
-+ <a href="https://github.com/pan6603/TIL/blob/main/Python/round()%20%ED%95%A8%EC%88%98%20%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95.md">round() 함수 사용방법</a>
 
 ### React
 + <a href="https://github.com/pan6603/TIL/blob/main/React/React%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.md">React 설치 명령어</a>
